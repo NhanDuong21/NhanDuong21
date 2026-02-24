@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&color=7AF79A&center=true&vCenter=true&width=700&lines=Hi+I'm+Nyan+👽;3rd+Year+FPT+University+Student;Aspiring+Full+Stack+Developer;Living+in+Galaxy+Dark+Mode+🌌" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&color=7AF79A&center=true&vCenter=true&width=700&lines=Hi+I'm+Nyan+👽;FPT+University+Student;Aspiring+Full+Stack+Developer;Living+in+Galaxy+Dark+Mode+🌌" />
 </p>
 
 <h2 align="center">👽 Connect With Me 👽</h2>
