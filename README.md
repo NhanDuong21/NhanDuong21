@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&color=7AF79A&center=true&vCenter=true&width=700&lines=Hello+everyone!+I'm+Nyan+👽;Frontend+Developer;UI%2FUX+Lover;Galaxy+Dreamer+🌌" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&color=7AF79A&center=true&vCenter=true&width=750&lines=Hello+I'm+Nyan+👽;Full+Stack+Developer;Java+%2B+React+%2B+NodeJS;Living+in+Galaxy+Dark+Mode+🌌" />
 </p>
 
 <p align="center">
@@ -17,16 +17,31 @@
 ## 🛸 About Me
 
 - 🎓 FPT University
-- 💻 Frontend Developer (React / UI)
+- 💻 Full Stack Developer
+- ⚡ Java • React • NodeJS • TypeScript
 - 🌌 Love galaxy dark aesthetic
-- 🚀 Always learning & building cool stuff
+- 🚀 Building systems from UI to Database
 
 ---
 
 ## 🛠 Tech Stack
 
+### 🎨 Frontend
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react&theme=dark" />
+</p>
+
+### ⚙ Backend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,nodejs,express&theme=dark" />
+</p>
+
+### 🗄 Database & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode&theme=dark" />
 </p>
 
 ---
