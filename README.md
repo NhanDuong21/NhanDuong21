@@ -1,7 +1,7 @@
 <!-- Galaxy Dark README - Nyan 👽 -->
 
 <p align="center">
-  <img src="svg/nyannn.svg" width="100%" alt="nyan-banner"/>
+  <img src="svg/nyan.svg" width="100%" alt="nyan-banner"/>
 </p>
 
 <p align="center">
