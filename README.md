@@ -26,6 +26,10 @@
   <a href="https://instagram.com/nhannnduong1211" target="_blank">
     <img width="90" src="https://img.icons8.com/bubbles/100/instagram-new.png" />
   </a>
+  &nbsp;&nbsp;
+  <a href="https://www.reddit.com/user/Defiant-Virus-5184" target="_blank">
+    <img width="90" src="https://img.icons8.com/bubbles/100/reddit.png" />
+  </a>
 </p>
 
 ---
