@@ -8,47 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&color=7AF79A&center=true&vCenter=true&width=700&lines=Hi+I'm+Nyan+👽;3rd+Year+FPT+University+Student;Aspiring+Full+Stack+Developer;Living+in+Galaxy+Dark+Mode+🌌" />
 </p>
 
----
-
-## 👽 About Me
-
-- 🎓 3rd Year Student at FPT University  
-- 💻 Learning Full Stack Development  
-- ⚡ Java • React • NodeJS • TypeScript  
-- 🚀 Currently improving my skills day by day  
-- 🌌 Love clean UI & dark mode aesthetics  
-
----
-
-## 🛠 Currently Learning
-
-<p align="center">
-Java • React • NodeJS • TypeScript • MySQL • MongoDB • Git
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NhanDuong21&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NhanDuong21&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🎯 2026 Goals
-
-- 🌱 Build at least 3 real projects  
-- 🧠 Improve backend architecture skills  
-- ⚡ Learn Spring Boot deeper  
-- 🚀 Become internship-ready  
-
----
-
 <h2 align="center">👽 Connect With Me 👽</h2>
 
 <p align="center">
