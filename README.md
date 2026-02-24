@@ -1,47 +1,29 @@
-<!-- Galaxy Dark README by Nyan 👽 -->
+<!-- Galaxy Dark README - Nyan 👽 -->
 
 <p align="center">
-  <img src="svg/nyannn.svg" width="1200" alt="nyan-banner" />
+  <img src="svg/nyannn.svg" width="100%" alt="nyan-banner"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&color=7AF79A&center=true&vCenter=true&width=750&lines=Hello+I'm+Nyan+👽;Full+Stack+Developer;Java+%2B+React+%2B+NodeJS;Living+in+Galaxy+Dark+Mode+🌌" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NhanDuong21&label=Profile+Views&color=7AF79A&style=flat" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&color=7AF79A&center=true&vCenter=true&width=700&lines=Hi+I'm+Nyan+👽;3rd+Year+FPT+University+Student;Aspiring+Full+Stack+Developer;Living+in+Galaxy+Dark+Mode+🌌" />
 </p>
 
 ---
 
-## 🛸 About Me
+## 👽 About Me
 
-- 🎓 FPT University
-- 💻 Full Stack Developer
-- ⚡ Java • React • NodeJS • TypeScript
-- 🌌 Love galaxy dark aesthetic
-- 🚀 Building systems from UI to Database
+- 🎓 3rd Year Student at FPT University  
+- 💻 Learning Full Stack Development  
+- ⚡ Java • React • NodeJS • TypeScript  
+- 🚀 Currently improving my skills day by day  
+- 🌌 Love clean UI & dark mode aesthetics  
 
 ---
 
-## 🛠 Tech Stack
-
-### 🎨 Frontend
+## 🛠 Currently Learning
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react&theme=dark" />
-</p>
-
-### ⚙ Backend
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,nodejs,express&theme=dark" />
-</p>
-
-### 🗄 Database & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode&theme=dark" />
+Java • React • NodeJS • TypeScript • MySQL • MongoDB • Git
 </p>
 
 ---
@@ -53,32 +35,37 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=NhanDuong21&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NhanDuong21&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-<h2 align="center">👽 Where to find me 👽</h2>
+## 🎯 2026 Goals
+
+- 🌱 Build at least 3 real projects  
+- 🧠 Improve backend architecture skills  
+- ⚡ Learn Spring Boot deeper  
+- 🚀 Become internship-ready  
+
+---
+
+<h2 align="center">👽 Connect With Me 👽</h2>
 
 <p align="center">
   <a href="https://nhanduong21.github.io/My-ProFile/" target="_blank">
-    <img width="100" height="100" src="images/logo-trungquandev-transparent-bg-192x192.png" alt="blog" />
+    <img width="90" src="https://img.icons8.com/bubbles/100/domain.png" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="https://www.facebook.com/nyanprofile" target="_blank">
-    <img width="100" height="100" src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="facebook" />
+    <img width="90" src="https://img.icons8.com/bubbles/100/facebook-new.png" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="https://t.me/XieChugLing" target="_blank">
-    <img width="100" height="100" src="https://img.icons8.com/bubbles/100/000000/telegram-app.png" alt="telegram" />
+    <img width="90" src="https://img.icons8.com/bubbles/100/telegram-app.png" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="https://instagram.com/nhannnduong1211" target="_blank">
-    <img width="100" height="100" src="https://img.icons8.com/bubbles/100/000000/instagram-new.png" alt="instagram" />
+    <img width="90" src="https://img.icons8.com/bubbles/100/instagram-new.png" />
   </a>
 </p>
 
