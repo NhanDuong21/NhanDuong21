@@ -12,6 +12,16 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7AF79A,100:6A5ACD&height=3&section=header" width="80%"/>
 </p>
 
+<!-- 🐍 Snake Section -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NhanDuong21/NhanDuong21/output/github-contribution-grid-snake-dark.svg?v=5" alt="snake animation"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A5ACD,100:7AF79A&height=3&section=header" width="80%"/>
+</p>
+
+<!-- 👽 Connect -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=2500&pause=1000&color=7AF79A&center=true&vCenter=true&width=520&lines=👽+Connect+With+Me+👽" />
 </p>
