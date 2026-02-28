@@ -14,7 +14,22 @@
 
 <!-- 🐍 Snake Section -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/NhanDuong21/NhanDuong21/output/github-contribution-grid-snake-dark.svg?v=5" alt="snake animation"/>
+  <img
+    src="https://raw.githubusercontent.com/NhanDuong21/NhanDuong21/output/github-contribution-grid-snake-dark.svg?v=5"
+    alt="snake animation"
+    style="
+      width: 95%;
+      max-width: 900px;
+      border-radius: 18px;
+      padding: 10px;
+      background: linear-gradient(135deg, rgba(11,16,38,.9), rgba(106,90,205,.18));
+      box-shadow:
+        0 0 0 1px rgba(122,247,154,.35),
+        0 0 26px rgba(122,247,154,.22),
+        0 0 60px rgba(106,90,205,.18);
+      filter: drop-shadow(0 0 14px rgba(122,247,154,.35));
+    "
+  />
 </p>
 
 <p align="center">
