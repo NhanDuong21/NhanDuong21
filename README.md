@@ -4,9 +4,9 @@
   <img src="svg/nyann.svg" width="100%" alt="nyan-banner"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&color=7AF79A&center=true&vCenter=true&width=700&lines=Hi+I'm+Nyan+👽;FPT+University+Student;Aspiring+Full+Stack+Developer;Living+in+Galaxy+Dark+Mode+🌌" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7AF79A,100:6A5ACD&height=3&section=header" width="80%"/>
