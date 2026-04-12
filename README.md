@@ -38,7 +38,7 @@
 
 <!-- 👽 Connect -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=2500&pause=1000&color=7AF79A&center=true&vCenter=true&width=520&lines=👽+Connect+With+Me+👽" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=2500&pause=1000&color=7AF79A&center=true&vCenter=true&width=520&lines=+Connect+With+Me+" />
 </p>
 
 <p align="center">
@@ -63,9 +63,9 @@
   </a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://img.shields.io/badge/Galaxy-Dark%20Mode-0B1026?style=for-the-badge&logo=starship&logoColor=7AF79A" />
-</p>
+</p> -->
 
 ---
 
