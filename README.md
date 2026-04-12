@@ -4,7 +4,13 @@
   <img 
     src="svg/nyann.svg" 
     alt="nyan-banner"
-    style="width: 100%; max-width: 900px; padding: 8px; box-sizing: border-box;"
+    style="
+      width: 120%;
+      max-width: 1100px;
+      transform: translateX(-10%);
+      display: block;
+      margin: 0 auto;
+    "
   />
 </p>
 
