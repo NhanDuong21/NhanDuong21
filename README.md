@@ -42,7 +42,7 @@
 </p>
 
 <p align="center">
-  <a href="https://nhanduong21.github.io/My-ProFile/" target="_blank">
+  <a href="https://nhanduong21.github.io/personal-portfolio/" target="_blank">
     <img width="90" src="https://img.icons8.com/bubbles/100/domain.png" />
   </a>
   &nbsp;&nbsp;
