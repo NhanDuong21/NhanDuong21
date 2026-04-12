@@ -2,7 +2,7 @@
 
 <p align="center">
   <img 
-    src="svg/nyann.svg" 
+    src="svg/nyan.svg" 
     alt="nyan-banner"
     style="
       width: 120%;
