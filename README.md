@@ -24,7 +24,7 @@
 
 <!-- 🐍 Snake Section -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=2500&pause=1000&color=7AF79A&center=true&vCenter=true&width=500&lines=+My+Contribution+Orbit+" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=2500&pause=1000&color=00fffc&center=true&vCenter=true&width=600&lines=+C+O+S+M+I+C+_+O+R+B+I+T+" />
 </div>
 
 <p align="center">
@@ -33,17 +33,17 @@
     alt="snake animation"
     width="85%"
     style="
-      border-radius: 12px;
+      border-radius: 10px;
       padding: 10px;
-      background: rgba(11,16,38,0.7);
-      box-shadow: 0 0 25px rgba(106,90,205,0.15);
+      background: rgba(11,16,38,0.8);
+      filter: drop-shadow(0 0 8px rgba(0, 255, 252, 0.4));
     "
   />
 </p>
 
-<div align="center" style="margin-top: -15px;">
-  <div style="background-color: #0B1026; border: 1px solid #7AF79A; border-radius: 6px; padding: 6px 20px; display: inline-block; box-shadow: 0 0 15px rgba(122, 247, 154, 0.2);">
-    <code style="color: #7AF79A; font-family: monospace; font-weight: bold; text-shadow: 0 0 8px rgba(122, 247, 154, 0.5);">>> SYSTEM ACTIVE | TRAIL: 101 COMMITS</code>
+<div align="center" style="margin-top: -10px;">
+  <div style="background-color: #0d1117; border: 1px solid #ff00ff; border-radius: 4px; padding: 4px 16px; display: inline-block; box-shadow: 0 0 10px rgba(255, 0, 255, 0.3);">
+    <code style="color: #ff00ff; font-family: monospace; font-weight: bold; text-shadow: 0 0 5px rgba(255, 0, 255, 0.5);">>> SYSTEM ONLINE | NEON TRAIL ACTIVE</code>
   </div>
 </div>
 
