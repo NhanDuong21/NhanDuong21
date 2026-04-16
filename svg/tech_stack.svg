@@ -1,0 +1,160 @@
+<svg width="1000" height="600" viewBox="0 0 1000 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@700&family=Inter:wght@400;600&display=swap');
+    
+    .card {
+      filter: drop-shadow(0 0 10px rgba(0, 0, 0, 0.5));
+    }
+    
+    .card-bg {
+      fill: #0B1026;
+      stroke: #7AF79A;
+      stroke-width: 2;
+      transition: all 0.3s ease;
+    }
+    
+    .card:hover .card-bg {
+      stroke-width: 4;
+      filter: drop-shadow(0 0 15px #7AF79A);
+    }
+    
+    .title {
+      font-family: 'Orbitron', sans-serif;
+      fill: #7AF79A;
+      font-size: 28px;
+      text-transform: uppercase;
+      letter-spacing: 2px;
+    }
+    
+    .icon {
+      transition: transform 0.3s ease;
+      cursor: pointer;
+    }
+    
+    .icon-link:hover .icon {
+      transform: scale(1.15) translateY(-5px);
+    }
+    
+    @keyframes float {
+      0% { transform: translateY(0px); }
+      50% { transform: translateY(-15px); }
+      100% { transform: translateY(0px); }
+    }
+    
+    .main-container {
+      animation: float 5s ease-in-out infinite;
+    }
+
+    .label {
+      font-family: 'Inter', sans-serif;
+      fill: #ffffff;
+      font-size: 14px;
+      opacity: 0;
+      transition: opacity 0.3s ease;
+      text-anchor: middle;
+      pointer-events: none;
+    }
+
+    .icon-link:hover .label {
+      opacity: 1;
+    }
+  </style>
+
+  <g class="main-container">
+    <!-- Backend Card -->
+    <g class="card" transform="translate(50, 50)">
+      <rect class="card-bg" width="430" height="220" rx="20" />
+      <text x="30" y="45" class="title">Backend</text>
+      
+      <a href="https://nodejs.org" target="_blank" class="icon-link">
+        <image class="icon" x="30" y="80" width="60" height="60" href="https://skillicons.dev/icons?i=nodejs" />
+        <text x="60" y="160" class="label">Node.js</text>
+      </a>
+      <a href="https://expressjs.com" target="_blank" class="icon-link">
+        <image class="icon" x="110" y="80" width="60" height="60" href="https://skillicons.dev/icons?i=express" />
+        <text x="140" y="160" class="label">Express</text>
+      </a>
+      <a href="https://java.com" target="_blank" class="icon-link">
+        <image class="icon" x="190" y="80" width="60" height="60" href="https://skillicons.dev/icons?i=java" />
+        <text x="220" y="160" class="label">Java</text>
+      </a>
+      <a href="https://spring.io" target="_blank" class="icon-link">
+        <image class="icon" x="270" y="80" width="60" height="60" href="https://skillicons.dev/icons?i=spring" />
+        <text x="300" y="160" class="label">Spring</text>
+      </a>
+      <a href="https://python.org" target="_blank" class="icon-link">
+        <image class="icon" x="350" y="80" width="60" height="60" href="https://skillicons.dev/icons?i=python" />
+        <text x="380" y="160" class="label">Python</text>
+      </a>
+    </g>
+
+    <!-- Frontend Card -->
+    <g class="card" transform="translate(520, 50)">
+      <rect class="card-bg" width="430" height="220" rx="20" />
+      <text x="30" y="45" class="title">Frontend</text>
+      
+      <a href="https://reactjs.org" target="_blank" class="icon-link">
+        <image class="icon" x="30" y="80" width="60" height="60" href="https://skillicons.dev/icons?i=react" />
+        <text x="60" y="160" class="label">React</text>
+      </a>
+      <a href="https://javascript.com" target="_blank" class="icon-link">
+        <image class="icon" x="110" y="80" width="60" height="60" href="https://skillicons.dev/icons?i=js" />
+        <text x="140" y="160" class="label">JS</text>
+      </a>
+      <a href="https://typescriptlang.org" target="_blank" class="icon-link">
+        <image class="icon" x="190" y="80" width="60" height="60" href="https://skillicons.dev/icons?i=ts" />
+        <text x="220" y="160" class="label">TS</text>
+      </a>
+      <a href="https://w3.org/html" target="_blank" class="icon-link">
+        <image class="icon" x="270" y="80" width="60" height="60" href="https://skillicons.dev/icons?i=html" />
+        <text x="300" y="160" class="label">HTML5</text>
+      </a>
+      <a href="https://w3.org/css" target="_blank" class="icon-link">
+        <image class="icon" x="350" y="80" width="60" height="60" href="https://skillicons.dev/icons?i=css" />
+        <text x="380" y="160" class="label">CSS3</text>
+      </a>
+    </g>
+
+    <!-- Database Card -->
+    <g class="card" transform="translate(50, 320)">
+      <rect class="card-bg" width="430" height="220" rx="20" />
+      <text x="30" y="45" class="title">Database</text>
+      
+      <a href="https://mongodb.com" target="_blank" class="icon-link">
+        <image class="icon" x="30" y="80" width="60" height="60" href="https://skillicons.dev/icons?i=mongodb" />
+        <text x="60" y="160" class="label">MongoDB</text>
+      </a>
+      <a href="https://mysql.com" target="_blank" class="icon-link">
+        <image class="icon" x="110" y="80" width="60" height="60" href="https://skillicons.dev/icons?i=mysql" />
+        <text x="140" y="160" class="label">MySQL</text>
+      </a>
+      <a href="https://microsoft.com/sql-server" target="_blank" class="icon-link">
+        <image class="icon" x="190" y="80" width="60" height="60" href="https://skillicons.dev/icons?i=mssql" />
+        <text x="220" y="160" class="label">MSSQL</text>
+      </a>
+    </g>
+
+    <!-- Tools Card -->
+    <g class="card" transform="translate(520, 320)">
+      <rect class="card-bg" width="430" height="220" rx="20" />
+      <text x="30" y="45" class="title">Tools</text>
+      
+      <a href="https://git-scm.com" target="_blank" class="icon-link">
+        <image class="icon" x="30" y="80" width="60" height="60" href="https://skillicons.dev/icons?i=git" />
+        <text x="60" y="160" class="label">Git</text>
+      </a>
+      <a href="https://postman.com" target="_blank" class="icon-link">
+        <image class="icon" x="110" y="80" width="60" height="60" href="https://skillicons.dev/icons?i=postman" />
+        <text x="140" y="160" class="label">Postman</text>
+      </a>
+      <a href="https://code.visualstudio.com" target="_blank" class="icon-link">
+        <image class="icon" x="190" y="80" width="60" height="60" href="https://skillicons.dev/icons?i=vscode" />
+        <text x="220" y="160" class="label">VS Code</text>
+      </a>
+      <a href="https://jetbrains.com/idea" target="_blank" class="icon-link">
+        <image class="icon" x="270" y="80" width="60" height="60" href="https://skillicons.dev/icons?i=idea" />
+        <text x="300" y="160" class="label">IntelliJ</text>
+      </a>
+    </g>
+  </g>
+</svg>
