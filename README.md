@@ -51,9 +51,30 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=2500&pause=1000&color=7AF79A&center=true&vCenter=true&width=600&lines=+Technical+Ecosystem+" />
 </p>
 
-<p align="center">
-  <img src="svg/tech_stack.svg" width="100%" alt="Tech Stack Grid" />
-</p>
+<div align="center">
+  <table style="margin: 0 auto;">
+    <tr>
+      <td align="center" width="400">
+        <h3 style="color: #7AF79A;">Backend</h3>
+        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,python" /></a>
+      </td>
+      <td align="center" width="400">
+        <h3 style="color: #7AF79A;">Frontend</h3>
+        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,js,ts,html,css" /></a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="400">
+        <h3 style="color: #7AF79A;">Database</h3>
+        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mongodb,mysql,mssql" /></a>
+      </td>
+      <td align="center" width="400">
+        <h3 style="color: #7AF79A;">Tools</h3>
+        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,postman,vscode,idea" /></a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7AF79A,100:6A5ACD&height=3&section=header" width="80%"/>
