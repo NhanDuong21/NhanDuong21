@@ -23,9 +23,9 @@
 </p>
 
 <!-- 🐍 Snake Section -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2500&pause=1000&color=7AF79A&center=true&vCenter=true&width=500&lines=+My+Contribution+Orbit+" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=2500&pause=1000&color=7AF79A&center=true&vCenter=true&width=500&lines=+My+Contribution+Orbit+" />
+</div>
 
 <p align="center">
   <img
@@ -33,13 +33,19 @@
     alt="snake animation"
     width="85%"
     style="
-      border-radius: 15px;
+      border-radius: 12px;
       padding: 10px;
-      background: rgba(11,16,38,0.6);
-      box-shadow: 0 0 20px rgba(122,247,154,0.2);
+      background: rgba(11,16,38,0.7);
+      box-shadow: 0 0 25px rgba(106,90,205,0.15);
     "
   />
 </p>
+
+<div align="center" style="margin-top: -15px;">
+  <div style="background-color: #0B1026; border: 1px solid #7AF79A; border-radius: 6px; padding: 6px 20px; display: inline-block; box-shadow: 0 0 15px rgba(122, 247, 154, 0.2);">
+    <code style="color: #7AF79A; font-family: monospace; font-weight: bold; text-shadow: 0 0 8px rgba(122, 247, 154, 0.5);">>> SYSTEM ACTIVE | TRAIL: 101 COMMITS</code>
+  </div>
+</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A5ACD,100:7AF79A&height=3&section=header" width="80%"/>
