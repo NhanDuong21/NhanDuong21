@@ -24,20 +24,19 @@
 
 <!-- 🐍 Snake Section -->
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2500&pause=1000&color=7AF79A&center=true&vCenter=true&width=500&lines=+My+Contribution+Orbit+" />
+</p>
+
+<p align="center">
   <img
-    src="https://raw.githubusercontent.com/NhanDuong21/NhanDuong21/output/github-contribution-grid-snake-dark.svg?v=5"
+    src="https://raw.githubusercontent.com/NhanDuong21/NhanDuong21/output/github-contribution-grid-snake-dark.svg"
     alt="snake animation"
+    width="85%"
     style="
-      width: 95%;
-      max-width: 900px;
-      border-radius: 18px;
+      border-radius: 15px;
       padding: 10px;
-      background: linear-gradient(135deg, rgba(11,16,38,.9), rgba(106,90,205,.18));
-      box-shadow:
-        0 0 0 1px rgba(122,247,154,.35),
-        0 0 26px rgba(122,247,154,.22),
-        0 0 60px rgba(106,90,205,.18);
-      filter: drop-shadow(0 0 14px rgba(122,247,154,.35));
+      background: rgba(11,16,38,0.6);
+      box-shadow: 0 0 20px rgba(122,247,154,0.2);
     "
   />
 </p>
