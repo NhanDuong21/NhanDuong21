@@ -46,6 +46,42 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A5ACD,100:7AF79A&height=3&section=header" width="80%"/>
 </p>
 
+<!-- 💻 Tech Stack -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=2500&pause=1000&color=7AF79A&center=true&vCenter=true&width=520&lines=+Tech+Stack+" />
+</p>
+
+<div align="center">
+  <p>
+    <strong>Backend:</strong><br>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,python" />
+    </a>
+  </p>
+  <p>
+    <strong>Frontend:</strong><br>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=react,js,ts,html,css" />
+    </a>
+  </p>
+  <p>
+    <strong>Database:</strong><br>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=mongodb,mysql,mssql" />
+    </a>
+  </p>
+  <p>
+    <strong>Tools:</strong><br>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=git,postman,vscode,idea" />
+    </a>
+  </p>
+</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7AF79A,100:6A5ACD&height=3&section=header" width="80%"/>
+</p>
+
 <!-- 👽 Connect -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=2500&pause=1000&color=7AF79A&center=true&vCenter=true&width=520&lines=+Connect+With+Me+" />
