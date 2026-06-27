@@ -31,11 +31,7 @@
   <img src="https://raw.githubusercontent.com/NhanDuong21/NhanDuong21/output/galaga-contribution-graph.svg?v=2026" alt="Galaga Game" width="100%">
 </p>
 
-<div align="center" style="margin-top: -10px;">
-  <div style="background-color: #0d1117; border: 1px solid #ff00ff; border-radius: 4px; padding: 4px 16px; display: inline-block; box-shadow: 0 0 10px rgba(255, 0, 255, 0.3);">
-    <code style="color: #ff00ff; font-family: monospace; font-weight: bold; text-shadow: 0 0 5px rgba(255, 0, 255, 0.5);">>> SYSTEM ONLINE | NEON TRAIL ACTIVE</code>
-  </div>
-</div>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A5ACD,100:7AF79A&height=3&section=header" width="80%"/>
