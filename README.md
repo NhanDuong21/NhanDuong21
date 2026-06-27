@@ -25,9 +25,9 @@
 <!-- Galaga Game Section -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NhanDuong21/NhanDuong21/output/galaga.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NhanDuong21/NhanDuong21/output/galaga.svg">
-    <img alt="GitHub Galaga Game" src="https://raw.githubusercontent.com/NhanDuong21/NhanDuong21/output/galaga.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NhanDuong21/NhanDuong21/output/github-contribution-grid-galaga.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NhanDuong21/NhanDuong21/output/github-contribution-grid-galaga.svg">
+    <img alt="GitHub Galaga Game" src="https://raw.githubusercontent.com/NhanDuong21/NhanDuong21/output/github-contribution-grid-galaga.svg" width="100%">
   </picture>
 </p>
 

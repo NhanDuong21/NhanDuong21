@@ -2,32 +2,28 @@ name: Generate Galaga Game
 
 on:
   schedule:
-    - cron: "0 */24 * * *"
+    - cron: "0 0 * * *"
   workflow_dispatch:
   push:
     branches:
     - main
 
 jobs:
-  generate:
-    permissions: 
-      contents: write
+  build:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
-    
+    permissions:
+      contents: write
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Generate Galaga
-        uses: saadeghi/galaga@v1.1.2
+      # Sử dụng đúng action từ repo minhduyhodev
+      - uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/galaga.svg
+          games: "galaga"
 
-      - name: Push galaga.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v4
+      # Đẩy file ảnh github-contribution-grid-galaga.svg lên nhánh output
+      - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
