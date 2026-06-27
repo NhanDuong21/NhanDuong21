@@ -22,23 +22,13 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7AF79A,100:6A5ACD&height=3&section=header" width="80%"/>
 </p>
 
-<!-- 🐍 Snake Section -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=2500&pause=1000&color=00fffc&center=true&vCenter=true&width=600&lines=+C+O+S+M+I+C+_+O+R+B+I+T+" />
-</div>
-
+<!-- Galaga Game Section -->
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/NhanDuong21/NhanDuong21/output/github-contribution-grid-snake-dark.svg"
-    alt="snake animation"
-    width="85%"
-    style="
-      border-radius: 10px;
-      padding: 10px;
-      background: rgba(11,16,38,0.8);
-      filter: drop-shadow(0 0 8px rgba(0, 255, 252, 0.4));
-    "
-  />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/trungquandev/trungquandev/output/galaga.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/trungquandev/trungquandev/output/galaga.svg">
+    <img alt="GitHub Galaga Game" src="https://raw.githubusercontent.com/trungquandev/trungquandev/output/galaga.svg" width="100%">
+  </picture>
 </p>
 
 <div align="center" style="margin-top: -10px;">
