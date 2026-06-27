@@ -35,13 +35,13 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A5ACD,100:7AF79A&height=3&section=header" width="80%"/>
 </p>
 
-<!-- GitHub Stats Section (Bảng thống kê số liệu commit mới thêm) -->
+<!-- GitHub Stats Section (Đã ẩn vòng tròn xếp hạng B) -->
 <h2 align="center" style="font-family: 'Orbitron', monospace; color: #7AF79A; text-shadow: 0 0 10px rgba(122, 247, 154, 0.6); margin-top: 25px; margin-bottom: 15px;">
   📊 GITHUB STATISTICS
 </h2>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="NhanDuong21's Github Stats" src="https://github-readme-stats.vercel.app/api?username=NhanDuong21&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=7AF79A&icon_color=6A5ACD" height="192px"/>
+    <img alt="NhanDuong21's Github Stats" src="https://github-readme-stats.vercel.app/api?username=NhanDuong21&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=7AF79A&icon_color=6A5ACD&hide_rank=true" height="192px"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img alt="NhanDuong21's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NhanDuong21&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=7AF79A&icon_color=6A5ACD" height="192px"/>
