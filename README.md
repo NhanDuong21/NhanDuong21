@@ -37,7 +37,7 @@
 
 <!-- GitHub Stats Section (Đã ẩn vòng tròn xếp hạng B) -->
 <h2 align="center" style="font-family: 'Orbitron', monospace; color: #7AF79A; text-shadow: 0 0 10px rgba(122, 247, 154, 0.6); margin-top: 25px; margin-bottom: 15px;">
-  📊 GITHUB STATISTICS
+   GITHUB STATISTICS
 </h2>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -54,7 +54,7 @@
 
 <!-- 👽 Connect (Fix lỗi vỡ chữ bằng text đổ màu Neon chuẩn chỉ) -->
 <h2 align="center" style="font-family: 'Orbitron', monospace; color: #7AF79A; text-shadow: 0 0 10px rgba(122, 247, 154, 0.6); margin-top: 25px; margin-bottom: 20px;">
-  👽 CONNECT WITH ME
+   CONNECT WITH ME
 </h2>
 
 <p align="center">
