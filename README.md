@@ -22,7 +22,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7AF79A,100:6A5ACD&height=3&section=header" width="80%"/>
 </p>
 
-<!-- Galaga Game Section -->
+<!-- Galaga Game Section (Giữ nguyên bản hiển thị tốt của bạn) -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NhanDuong21/NhanDuong21/output/galaga-contribution-graph.svg?v=2026">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NhanDuong21/NhanDuong21/output/galaga-contribution-graph.svg?v=2026">
@@ -31,16 +31,31 @@
   <img src="https://raw.githubusercontent.com/NhanDuong21/NhanDuong21/output/galaga-contribution-graph.svg?v=2026" alt="Galaga Game" width="100%">
 </p>
 
-
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A5ACD,100:7AF79A&height=3&section=header" width="80%"/>
 </p>
 
-<!-- 👽 Connect -->
+<!-- GitHub Stats Section (Bảng thống kê số liệu commit mới thêm) -->
+<h2 align="center" style="font-family: 'Orbitron', monospace; color: #7AF79A; text-shadow: 0 0 10px rgba(122, 247, 154, 0.6); margin-top: 25px; margin-bottom: 15px;">
+  📊 GITHUB STATISTICS
+</h2>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=2500&pause=1000&color=7AF79A&center=true&vCenter=true&width=520&lines=+Connect+With+Me+" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="NhanDuong21's Github Stats" src="https://github-readme-stats.vercel.app/api?username=NhanDuong21&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=7AF79A&icon_color=6A5ACD" height="192px"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="NhanDuong21's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NhanDuong21&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=7AF79A&icon_color=6A5ACD" height="192px"/>
+  </a>
 </p>
+
+<p align="center" style="margin-top: 20px;">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7AF79A,100:6A5ACD&height=3&section=header" width="80%"/>
+</p>
+
+<!-- 👽 Connect (Fix lỗi vỡ chữ bằng text đổ màu Neon chuẩn chỉ) -->
+<h2 align="center" style="font-family: 'Orbitron', monospace; color: #7AF79A; text-shadow: 0 0 10px rgba(122, 247, 154, 0.6); margin-top: 25px; margin-bottom: 20px;">
+  👽 CONNECT WITH ME
+</h2>
 
 <p align="center">
   <a href="https://nhanduong21.github.io/personal-portfolio/" target="_blank">
