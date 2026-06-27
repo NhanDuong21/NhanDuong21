@@ -23,12 +23,12 @@
 </p>
 
 <!-- Galaga Game Section -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NhanDuong21/NhanDuong21/output/galaga-contribution-graph.svg?v=2026">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NhanDuong21/NhanDuong21/output/galaga-contribution-graph.svg?v=2026">
+</picture>
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NhanDuong21/NhanDuong21/output/github-contribution-grid-games/github-contribution-grid-galaga.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NhanDuong21/NhanDuong21/output/github-contribution-grid-games/github-contribution-grid-galaga.svg">
-    <img alt="GitHub Galaga Game" src="https://raw.githubusercontent.com/NhanDuong21/NhanDuong21/output/github-contribution-grid-games/github-contribution-grid-galaga.svg" width="100%">
-  </picture>
+  <img src="https://raw.githubusercontent.com/NhanDuong21/NhanDuong21/output/galaga-contribution-graph.svg?v=2026" alt="Galaga Game" width="100%">
 </p>
 
 <div align="center" style="margin-top: -10px;">
