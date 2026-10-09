@@ -24,11 +24,11 @@
 
 <!-- Galaga Game Section (Giữ nguyên bản hiển thị tốt của bạn) -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NhanDuong21/NhanDuong21/output/galaga-contribution-graph.svg?v=2026">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NhanDuong21/NhanDuong21/output/galaga-contribution-graph.svg?v=2026">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nyanduong/nyanduong/output/galaga-contribution-graph.svg?v=2026">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nyanduong/nyanduong/output/galaga-contribution-graph.svg?v=2026">
 </picture>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/NhanDuong21/NhanDuong21/output/galaga-contribution-graph.svg?v=2026" alt="Galaga Game" width="100%">
+  <img src="https://raw.githubusercontent.com/nyanduong/nyanduong/output/galaga-contribution-graph.svg?v=2026" alt="Galaga Game" width="100%">
 </p>
 
 <p align="center">
@@ -42,7 +42,7 @@
 </h2>
 
 <p align="center">
-  <a href="https://nhanduong21.github.io/personal-portfolio/" target="_blank">
+  <a href="https://nyanduong.github.io/personal-portfolio/" target="_blank">
     <img width="90" src="https://img.icons8.com/bubbles/100/domain.png" />
   </a>
   &nbsp;&nbsp;
